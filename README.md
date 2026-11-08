@@ -43,6 +43,5 @@ APK sites, etc.) without my written permission. See the LICENSE.txt file.
 For permission, contact: sagarsharma3438@gmail.com
 
 ## About
-I could not find another public implementation of this, so I wrote one.
-Developed with AI assistance. This project is not affiliated with VidMate or
+I could not find another public implementation of this, so I wrote one. This project is not affiliated with VidMate or
 PLAYit. Use it only with videos you have the right to watch.
