@@ -1,0 +1,64 @@
+SMART MUXER FIX PERSONAL-USE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Sagar ("Licensor"). All rights reserved except as
+granted below.
+
+This is a "source-available" license. It is NOT an open-source license.
+
+The "Software" means the source code in this repository (including
+smart_muxer_fix.dart), and any modified or translated version of it.
+
+1. PERMISSION FOR PERSONAL USE
+   You may, free of charge, download, read, copy, run and modify the Software
+   for your own personal, non-commercial use, on your own devices, and in apps
+   or projects that you build for yourself and that are NOT published or
+   distributed to anyone else.
+
+2. WHAT REQUIRES WRITTEN PERMISSION
+   You may NOT, without the Licensor's prior written permission:
+   (a) include the Software, or any substantial part of it, in any app,
+       program, library or service that is published, uploaded, sold, shared
+       or otherwise made available to other people or to any platform. This
+       includes Google Play, Apple App Store, any other app store, APK or
+       download sites, websites, and sharing the app file privately;
+   (b) rewrite or translate the Software into another language or framework
+       in a way that copies its code structure or substantial parts of it for
+       a purpose listed in 2(a);
+   (c) sell, sublicense, rent or otherwise commercialise the Software, or
+       charge for access to it.
+   To ask for permission, contact: sagarsharma3438@gmail.com. The Licensor may grant or
+   refuse permission at their own discretion and may attach conditions.
+
+3. SHARING THE SOURCE
+   You may share a link to this repository. You may fork the repository on
+   GitHub as allowed by GitHub's Terms of Service. If you share a copy of the
+   source code in any other way, you must keep this LICENSE file and the
+   copyright notice unchanged and with it.
+
+4. NOTICES
+   You must keep the copyright notice and the license reference at the top of
+   the source file(s).
+
+5. SCOPE
+   This license covers only the source code as written. It does not claim
+   ownership of any general ideas, file-format knowledge or methods, and it
+   does not limit any rights you have under the law that cannot be limited by
+   a license. Third-party packages used by the Software (for example
+   path_provider) are licensed under their own terms.
+
+6. TERMINATION
+   If you break these terms, your permission under this license ends
+   automatically. You must then stop using the Software and delete your copies.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT ALLOWED BY LAW, THE LICENSOR IS NOT LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+9. THE LICENSOR'S OWN USE
+   Nothing in this license limits what the Licensor may do with the Software,
+   including using it in the Licensor's own apps and publishing those apps.
